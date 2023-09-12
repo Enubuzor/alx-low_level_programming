@@ -1,6 +1,13 @@
 #ifndef main_h
 	#define main_h
-
+/**
+ * main - Entry point of the program
+ *
+ * Description: This function is the entry point of the program. It performs
+ * some specific tasks and returns an exit status code.
+ *
+ * Return: 0 on success, non-zero on failure
+ */
 
 	int _putchar(char);
 	void print_alphabet(void);
