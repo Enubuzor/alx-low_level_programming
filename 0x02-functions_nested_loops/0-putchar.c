@@ -1,12 +1,15 @@
 #include "main.h"
 
-	/**
-	 * main - print _putchar
-	 * Return: 0
-	 */
-
-
+ /**
+ * main - Entry point of the program
+ *
+ * Description: This function is the entry point of the program. It performs
+ * some specific tasks and returns an exit status code.
+ *
+ * Return: 0 on success, non-zero on failure
+ */
 	int main(void)
+
 	{
 	_putchar('_');
 	_putchar('p');
